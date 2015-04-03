@@ -1,0 +1,4 @@
+C:\Users\jo_vd_000\Dropbox\2015\android\test1\test1\bin\Debug\test1.dll
+C:\Users\jo_vd_000\Dropbox\2015\android\test1\packages\ReactiveExtensionsForAndroid.2.1.0\lib\MonoAndroid\System.Reactive.Core.dll
+C:\Users\jo_vd_000\Dropbox\2015\android\test1\packages\ReactiveExtensionsForAndroid.2.1.0\lib\MonoAndroid\System.Reactive.Linq.dll
+C:\Users\jo_vd_000\Dropbox\2015\android\test1\test1\bin\Debug\System.Reactive.Interfaces.dll
